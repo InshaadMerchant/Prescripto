@@ -53,17 +53,30 @@ Prescripto is a full-stack web application built with the MERN stack (MongoDB, E
 ## 📂 Folder Structure
 
 Prescripto/
+
 ├── backend/ # Node.js + Express server
+
 │ ├── controllers/
+
 │ ├── models/
+
 │ ├── routes/
+
 │ ├── middleware/
+
 │ └── config/
+
 ├── frontend/ # React App
+
 │ ├── src/
+
 │ │ ├── components/
+
 │ │ ├── pages/
+
 │ │ ├── services/
+
 │ │ └── utils/
+
 └── README.md
 
